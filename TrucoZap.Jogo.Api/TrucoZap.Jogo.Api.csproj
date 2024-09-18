@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TrucoZap.Jogo.Entidade\TrucoZap.Jogo.Entidade.csproj" />
+    <ProjectReference Include="..\TrucoZap.Jogo.Service\TrucoZap.Jogo.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>
